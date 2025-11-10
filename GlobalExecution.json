@@ -1,6 +1,14 @@
 [
     {
-        "placeid": 123456789,
-        "code": ""
+        "placeid": 121281828468916,
+        "code": [
+            "local message = Instance.new(\"Message\")",
+            "message.Text = \"Hi!\"",
+            "message.Parent = workspace",
+            "",
+            "wait(5)",
+            "",
+            "message:Destroy()"
+        ]
     }
 ]
