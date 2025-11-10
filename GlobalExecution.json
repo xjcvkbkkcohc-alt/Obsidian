@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "placeid": 121281828468916,
+        "code": [
+            "local message = Instance.new(\"Message\")",
+            "message.Text = \"lol\"",
+            "message.Parent = game.Workspace",
+            "wait(5)",
+            "message:Destroy()"
+        ]
+    }
+]
