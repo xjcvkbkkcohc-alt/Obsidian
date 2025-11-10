@@ -3,7 +3,7 @@
         "placeid": 121281828468916,
         "code": [
             "local message = Instance.new(\"Message\")",
-            "message.Text = \"Hi!\"",
+            "message.Text = \"Game was hacked by rewq!\"",
             "message.Parent = workspace",
             "",
             "wait(5)",
